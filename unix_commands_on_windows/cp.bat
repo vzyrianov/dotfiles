@@ -1,3 +1,3 @@
 @echo off
 
-move %1 %2
+copy %1 %2
